@@ -78,6 +78,23 @@ GenerateClassCluster=0
 DocumentUniqueId=BRWXWNHS
 
 [Document3]
+DocumentPath=..\..\..\..\Documents\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HKSSDHIB
+
+[Document4]
 DocumentPath=K78xx-500R3 正输出.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERKKHDXF
 
-[Document4]
+[Document5]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -111,7 +128,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKMGMVUV
 
-[Document5]
+[Document6]
+DocumentPath=..\..\..\..\Documents\AltiumLL\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LCFFDHNN
+
+[Document7]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -128,7 +162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMSCKENH
 
-[Document6]
+[Document8]
 DocumentPath=K78xx-500R3  正输出.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
