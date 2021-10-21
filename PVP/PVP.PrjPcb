@@ -95,6 +95,23 @@ GenerateClassCluster=0
 DocumentUniqueId=HKSSDHIB
 
 [Document4]
+DocumentPath=..\..\..\学习学习\1光伏充电\器件资料\模块\PTN04050CAD\CONV_PTN04050CAD.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XFRWPDBC
+
+[Document5]
 DocumentPath=K78xx-500R3 正输出.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -111,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERKKHDXF
 
-[Document5]
+[Document6]
 DocumentPath=PcbLib1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -128,7 +145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKMGMVUV
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\..\Documents\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,7 +162,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCFFDHNN
 
-[Document7]
+[Document8]
+DocumentPath=..\..\..\学习学习\1光伏充电\器件资料\模块\PTN04050CAD\PTN04050CAD.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FTFDLWJV
+
+[Document9]
 DocumentPath=Schlib1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -162,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMSCKENH
 
-[Document8]
+[Document10]
 DocumentPath=K78xx-500R3  正输出.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
