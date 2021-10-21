@@ -78,7 +78,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BRWXWNHS
 
 [Document3]
-DocumentPath=..\..\..\学习学习\1光伏充电\器件资料\K7803-500R3\K78xx-500R3 正输出.PcbLib
+DocumentPath=K78xx-500R3 正输出.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -129,7 +129,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CMSCKENH
 
 [Document6]
-DocumentPath=..\..\..\学习学习\1光伏充电\器件资料\K7803-500R3\K78xx-500R3  正输出.SchLib
+DocumentPath=K78xx-500R3  正输出.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
